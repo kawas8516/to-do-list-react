@@ -1,6 +1,12 @@
 # To-Do List
 
+![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)
+
 A React + Vite to-do app with task CRUD, search, filters, sorting, overdue tracking, and a dashboard. Data persists in `localStorage`.
+
+Repo: https://github.com/kawas8516/to-do-list-react
 
 ## Features
 
@@ -16,6 +22,8 @@ A React + Vite to-do app with task CRUD, search, filters, sorting, overdue track
 ## Getting Started
 
 ```bash
+git clone https://github.com/kawas8516/to-do-list-react.git
+cd to-do-list-react
 npm install
 npm run dev
 ```
